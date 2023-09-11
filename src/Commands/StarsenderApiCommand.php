@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Rupadana\StarsenderApi\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class StarsenderApiCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'starsender-api';
 
     public $description = 'My command';
 
